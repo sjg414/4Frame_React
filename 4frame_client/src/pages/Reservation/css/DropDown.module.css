@@ -1,0 +1,18 @@
+.imgContainer {
+  width: 500px;
+  height: 500px;
+  margin-top: 50px;
+}
+
+.imgContainer img {
+  width: 500px;
+  height: 400px;
+}
+.drop {
+  border: 1px solid black;
+  background: lightgray;
+  width: 150px;
+  height: 40px;
+  font-weight: bold;
+  text-align: center;
+}

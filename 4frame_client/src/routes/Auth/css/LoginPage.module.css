@@ -1,0 +1,121 @@
+/* LoginPage CSS */
+
+/* body(배경) */
+body {
+  background: #364047 url(images/img02.jpg) repeat;
+}
+
+/* main */
+.container {
+  height: 900px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login_div {
+  top: 150px;
+  left: 350px;
+  width: 500px;
+  height: 450px;
+  border: 3px dotted lightgray;
+  background-color: lightcyan;
+  text-align: center;
+  margin: auto auto;
+}
+
+/*login h4*/
+#login_h4 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+/* 색깔 띠 */
+#login_hr0 {
+  width: 10%;
+  border: 5px solid lightcyan;
+  float: left;
+}
+#login_hr1 {
+  width: 10%;
+  border: 5px solid lightgreen;
+  float: left;
+}
+#login_hr2 {
+  width: 10%;
+  border: 5px solid lightyellow;
+  float: left;
+}
+#login_hr3 {
+  width: 10%;
+  border: 5px solid lightsalmon;
+  float: left;
+}
+#login_hr4 {
+  width: 10%;
+  border: 5px solid lightcoral;
+  float: left;
+}
+#login_hr5 {
+  width: 10%;
+  border: 5px solid lightpink;
+  float: left;
+}
+#login_hr6 {
+  width: 10%;
+  border: 5px solid violet;
+  float: left;
+}
+#login_hr7 {
+  width: 10%;
+  border: 5px solid steelblue;
+  float: left;
+}
+#login_hr8 {
+  width: 10%;
+  border: 5px solid lightskyblue;
+  float: left;
+}
+#login_hr9 {
+  width: 10%;
+  border: 5px solid lightcyan;
+  float: left;
+}
+
+.colorgraph {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+/* 회색 띠 */
+#login_hr10 {
+  width: 80%;
+  border: 1px solid gray;
+  margin: 10px auto;
+}
+.input_div {
+  margin-top: 80px;
+}
+.login_input {
+  background-color: aliceblue;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 80%;
+  height: 50px;
+}
+
+.login_btn {
+  width: 80%;
+  height: 50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: steelblue;
+  border-radius: 15px;
+}
+
+.id_save {
+  margin-bottom: 10px;
+  padding-right: 240px;
+}

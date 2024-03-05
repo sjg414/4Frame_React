@@ -1,0 +1,16 @@
+.PurposeSection {
+  height: 900px;
+}
+
+.purposeTable table {
+  background: lightcyan;
+  width: 300px;
+  text-align: left;
+}
+
+.purposeTable td {
+  border: 3px solid gray;
+  padding: 15px;
+  letter-spacing: 5px;
+  font-weight: bold;
+}

@@ -1,0 +1,5 @@
+.NaviDiv {
+  display: flex;
+  justify: between;
+  background: url(images/img01.jpg);
+}

@@ -1,0 +1,31 @@
+body {
+  background: #364047 url(images/img02.jpg) repeat;
+}
+
+.Caution {
+  display: flex;
+  height: 900px;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 50%;
+}
+
+.container ol {
+  background: lightcyan;
+  margin: auto auto;
+  list-style: desimal;
+}
+
+.container li {
+  font-size: 20px;
+  margin: 0px 0px 70px 30px;
+  font-weight: bold;
+}
+
+.btnStyle {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,74 @@
+body {
+  background: #364047 url(images/img02.jpg) repeat;
+}
+
+.signup {
+  display: flex;
+  height: 900px;
+  align-items: center;
+  justify-content: center;
+}
+
+/* .singupForm {
+  background-color: lightcyan;
+  border: 2px solid #222;
+  border-radius: 5px;
+  padding: 20px;
+  width: 600px;
+  height: 600px;
+  margin: auto auto;
+} */
+
+.join_field {
+  border: 3px dotted lightgray;
+  background-color: lightcyan;
+  width: 600px;
+  height: 600px;
+}
+
+.signup legend {
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 5px;
+  padding-bottom: 10px;
+  text-align: center;
+  letter-spacing: 15px;
+}
+
+.signup ul li {
+  line-height: 60px;
+  list-style: none;
+  padding: 5px 50px;
+  margin-bottom: 2px;
+}
+
+/* label 왼쪽 플로팅, 너비 지정 */
+.signup label {
+  float: left;
+  font-size: 18px;
+  width: 150px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+.signup input {
+  margin-left: 20px;
+  padding-left: 15px;
+  font-size: 18px;
+  width: 300px;
+  background-color: aliceblue;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.submit_div {
+  display: flex;
+  justify-content: center;
+}
+
+#login_hr10 {
+  width: 80%;
+  border: 2px solid lightgray;
+  margin: 30px auto;
+}

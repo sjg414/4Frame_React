@@ -1,0 +1,16 @@
+.TimeSection {
+  height: 900px;
+}
+
+.timeTable table {
+  background: lightcyan;
+  width: 300px;
+  text-align: center;
+}
+
+.timeTable td {
+  border: 3px solid gray;
+  padding: 15px;
+  letter-spacing: 5px;
+  font-weight: bold;
+}

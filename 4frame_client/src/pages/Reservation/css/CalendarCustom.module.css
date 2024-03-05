@@ -1,0 +1,14 @@
+.calendar {
+  width: 500px;
+
+  font-size: 25px;
+}
+
+.select {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  background: lightyellow;
+  font-weight: bold;
+  color: coral;
+}

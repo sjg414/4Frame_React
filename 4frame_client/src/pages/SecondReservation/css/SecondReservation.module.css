@@ -1,0 +1,29 @@
+.reser {
+  height: 900px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px;
+}
+
+.selectData {
+  background-color: lightyellow;
+  border: 2px dotted black;
+  width: 350px;
+  height: 250px;
+  font-size: 25px;
+  text-align: center;
+  padding: 20px;
+}
+
+.selectData label {
+  float: left;
+  letter-spacing: 10px;
+}
+
+.selectData li {
+  text-align: left;
+}
